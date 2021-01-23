@@ -1,0 +1,37 @@
+.nav {
+  background-color: #F9E8EA;
+}
+
+.navbar-header {
+  background-color: #F9E8EA;
+}
+
+.navbar {
+  background-color: #F9E8EA;
+}
+
+.icon-bar {
+  background-color: #F9E8EA;
+}
+
+.container-fluid {
+  background-color: #white;
+}
+
+.gLFyf {
+  background-color: #white;
+}
+
+
+#sidebar {
+  width:auto;
+  height: 678px;
+  background-color: #DF949B;
+}
+
+
+#slider {
+  width: auto;
+  height: 200px;
+  background-color: white;
+}
